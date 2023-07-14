@@ -1,57 +1,16 @@
-# Frontend Mentor - Launch countdown timer solution
+# LaunchTime_countdown
 
-This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a Launch countdown timer challenge on Frontend 
+Displaying a countdown timer on the project's front end can engage users and keep them informed about the upcoming launch. It provides a visual representation of the remaining time, encouraging users to stay connected and follow the project's progress.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for all interactive elements on the page
-- See a live countdown timer that ticks down every second (start the count at 9 days)
-
-### Screenshot
-
-![](images/ScreenshotD.png)
-![](images/ScreenshotM.png)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+# Language Used
+- HTML5 markup
+- <p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="40" alt="Bootstrap" /></a>
 - Flexbox
+- ![language1](https://github.com/alisha140202/frontend_project/assets/102052712/018751e7-3738-4c7b-b8b2-f3e0fce848cb)
+
 - Mobile-first workflow
-
-### What I learned
-
-Working on this project I worked upon my knowledge on javascript and responsive styles. The project is simple and minimal but needs a lot of concentration while working a liitile mistake may lead to chaos.
-
-### Continued development
-
-Though the project wanted to add a flip animation on countdown everytime the time decreases I tried but could not understan so I will keep on working the animations and using different frameworks and functions in javascript to make many more interesting projects in javascript.
-
-## Author
-
-- Frontend Mentor - [@riya1511](https://www.frontendmentor.io/profile/riya1511)
-- Twitter - [@riyarai1511](https://twitter.com/riyarai1511)
-
-## Acknowledgments
-
-Lastly, I would like to thank everyone who posts the solutions of all the problems I stuck upon. People really works hard and contribute to technology that is really motivating and want to grow with them and enhance my skills.
+- 

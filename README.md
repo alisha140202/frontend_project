@@ -12,3 +12,4 @@ Displaying a countdown timer on the project's front end can engage users and kee
 
 # Overview
 ![Screenshot (2966)](https://github.com/alisha140202/frontend_project/assets/102052712/77d794b0-6960-4945-88c2-84a3fa1f7e90)
+![Screenshot (2970)](https://github.com/alisha140202/frontend_project/assets/102052712/f126bc51-7486-464a-984f-a0183f285eab)
